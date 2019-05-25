@@ -616,7 +616,7 @@
 			width: 21%;
 			height: 80%;
 			overflow-y: auto;
-			overflow-x: none;
+			overflow-x: hidden;
 		}
 		#item1{
 			position: absolute;
